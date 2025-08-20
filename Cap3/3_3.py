@@ -1,7 +1,3 @@
-'''
-Escreva um programa que leia três números reais em objetos denominados A, B, C.
-O programa de calcular 
-    '''
 import math
 
 # Armazena três números reais em objetos
